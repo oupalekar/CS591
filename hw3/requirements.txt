@@ -1,0 +1,5 @@
+torch==2.3.1
+torchtext==0.18.0
+torchvision
+torchdata
+portalocker>=2.0.0
